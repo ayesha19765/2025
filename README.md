@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayesha19765/2025/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayesha19765/2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |

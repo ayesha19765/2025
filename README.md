@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ayesha19765/2025/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayesha19765/2025/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayesha19765/2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ayesha19765/2025/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -184,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |

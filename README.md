@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
+| [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ayesha19765/2025/tree/master/0686-repeated-string-match) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ayesha19765/2025/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |

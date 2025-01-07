@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayesha19765/2025/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayesha19765/2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/ayesha19765/2025/tree/master/0686-repeated-string-match) |
@@ -221,14 +222,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayesha19765/2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ayesha19765/2025/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->

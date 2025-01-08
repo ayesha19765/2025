@@ -30,7 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayesha19765/2025/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ayesha19765/2025/tree/master/0260-single-number-iii) |
-| [0303-range-sum-query-immutable](https://github.com/ayesha19765/2025/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
@@ -112,7 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayesha19765/2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayesha19765/2025/tree/master/0238-product-of-array-except-self) |
-| [0303-range-sum-query-immutable](https://github.com/ayesha19765/2025/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
 | ------- |
@@ -179,7 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ayesha19765/2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ayesha19765/2025/tree/master/0155-min-stack) |
-| [0303-range-sum-query-immutable](https://github.com/ayesha19765/2025/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |

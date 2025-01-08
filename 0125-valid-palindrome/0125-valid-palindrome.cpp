@@ -1,54 +1,56 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        // Initialize two pointers, one at the beginning and one at the end
+        // Convert all characters in the string to lowercase
+        transform(s.begin(), s.end(), s.begin(), ::tolower);
+
         int i = 0, j = s.size() - 1;
 
-        // Loop until the two pointers meet
-        while(i < j) {
-            int val1 = 0, val2 = 0;
+        // Two-pointer approach to check if the string is a palindrome
+        while (i < j) {
+            char ch1 = s[i], ch2 = s[j];
 
-            // Process the character at position i
-            if(s[i] >=  'A' && s[i] <= 'Z')
-                val1 = s[i] + 32; // Convert to lowercase if uppercase
-            else if(s[i] >=  'a' && s[i] <= 'z')
-                val1 = s[i]; // Keep the character if it's already lowercase
-            else if(s[i] >=  '0' && s[i] <= '9')
-                val1 = s[i]; // Keep the digit
-            else {
-                i++; // Skip non-alphabetical characters
+            // Skip non-alphanumeric characters from the left
+            if (!((ch1 >= 'a' && ch1 <= 'z') || (ch1 >= '0' && ch1 <= '9'))) {
+                i++;
                 continue;
             }
 
-            // Process the character at position j
-            if(s[j] >=  'A' && s[j] <= 'Z')
-                val2 = s[j] + 32; // Convert to lowercase if uppercase
-            else if(s[j] >=  'a' && s[j] <= 'z')
-                val2 = s[j]; // Keep the character if it's already lowercase
-            else if(s[j] >=  '0' && s[j] <= '9')
-                val2 = s[j]; // Keep the digit
-            else {
-                j--; // Skip non-alphabetical characters
+            // Skip non-alphanumeric characters from the right
+            if (!((ch2 >= 'a' && ch2 <= 'z') || (ch2 >= '0' && ch2 <= '9'))) {
+                j--;
                 continue;
             }
 
-            // If the characters don't match, return false
-            if(val1 != val2) return false;
+            // Check if characters at the two pointers match
+            if (ch1 != ch2)  
+                return false;
 
-            // Move both pointers towards the center
-            i++, j--;
+            // Move the pointers closer to each other
+            i++;
+            j--;
         }
 
-        // Return true if the entire string is a palindrome
+        // If all characters match, the string is a palindrome
         return true;
     }
 };
 
 /*
-Time Complexity:
-- We iterate through the string once with two pointers, checking each character. 
-- The time complexity is O(N), where N is the length of the string.
+### Explanation:
+1. **Purpose**: This function checks if a given string `s` is a palindrome, considering only alphanumeric characters and ignoring cases.
+2. **Steps**:
+   - Use `transform()` to convert the string to lowercase for case insensitivity.
+   - Use a two-pointer approach:
+     - Increment the `i` pointer if the current character is not alphanumeric.
+     - Decrement the `j` pointer if the current character is not alphanumeric.
+     - If both characters at `i` and `j` are valid and do not match, return `false`.
+   - Continue until the pointers cross each other.
+3. **Return**: If no mismatch is found, the string is a palindrome.
 
-Space Complexity:
-- We use a constant amount of extra space for the two variables (val1, val2), so the space complexity is O(1).
+### Time Complexity:
+- **O(n)**: We process each character of the string at most twice (once for case conversion and once during the two-pointer traversal).
+
+### Space Complexity:
+- **O(1)**: The operation is performed in-place, using a constant amount of extra memory.
 */

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Queue
 |  |
 | ------- |

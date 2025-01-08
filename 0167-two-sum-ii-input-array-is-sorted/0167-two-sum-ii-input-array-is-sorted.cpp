@@ -1,30 +1,50 @@
-class Solution {
+class Solution
+{
 public:
-    vector<int> twoSum(vector<int>& arr, int target) {
-        // Initialize two pointers: one at the beginning (i) and one at the end (j)
+    vector<int> twoSum(vector<int> &arr, int k)
+    {
         int i = 0, j = arr.size() - 1;
 
-        // Loop until the two pointers meet
-        while(i < j) {
-            // Check if the sum of the elements at the two pointers equals the target
-            if(arr[i] + arr[j] == target) {
-                return {i + 1, j + 1}; // Return 1-based indices if a match is found
-            } else if(arr[i] + arr[j] > target) {
-                j--; // Move the right pointer left if the sum is greater than the target
-            } else {
-                i++; // Move the left pointer right if the sum is less than the target
-            }
+        // Use two-pointer approach to find two numbers that add up to 'k'
+        while (i < j)
+        {
+            // If the sum of the elements at indices 'i' and 'j' equals 'k', return the indices
+            if (arr[i] + arr[j] == k) 
+                return {i + 1, j + 1}; // Indices are 1-based as per problem requirements
+
+            // If the sum is greater than 'k', decrement 'j' to reduce the sum
+            if (arr[i] + arr[j] > k) 
+                j--;
+            // If the sum is less than 'k', increment 'i' to increase the sum
+            else 
+                i++;
         }
 
-        // Return {-1, -1} if no valid pair is found
+        // Return {-1, -1} if no pair is found
         return {-1, -1};
     }
 };
 
 /*
-Time Complexity:
-- The two-pointer approach scans the array once, making the time complexity O(N), where N is the size of the array.
+### Explanation:
+1. **Purpose**: This function finds two numbers in a sorted array that add up to a given target `k` and returns their indices (1-based).
+2. **Steps**:
+   - Use two pointers:
+     - Start one pointer `i` at the beginning of the array.
+     - Start the other pointer `j` at the end of the array.
+   - Check the sum of the numbers at the two pointers:
+     - If the sum equals `k`, return the indices (converted to 1-based).
+     - If the sum is greater than `k`, decrement `j` to reduce the sum.
+     - If the sum is less than `k`, increment `i` to increase the sum.
+   - If the loop completes without finding a pair, return `{-1, -1}` to indicate no solution.
 
-Space Complexity:
-- The algorithm uses constant space for the pointers, so the space complexity is O(1).
+### Time Complexity:
+- **O(n)**: Each element in the array is visited at most once due to the two-pointer approach.
+
+### Space Complexity:
+- **O(1)**: The solution uses a constant amount of extra space.
+
+### Key Notes:
+- The input array is assumed to be sorted, as this is a prerequisite for the two-pointer technique to work.
+- If the array is not sorted, the solution would require additional preprocessing (sorting the array) with a time complexity of **O(n log n)**.
 */

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
+| [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayesha19765/2025/tree/master/0022-generate-parentheses) |
+| [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |

@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayesha19765/2025/tree/master/0002-add-two-numbers) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ayesha19765/2025/tree/master/2649-count-total-number-of-colored-cells) |
 ## Backtracking
 |  |
 | ------- |

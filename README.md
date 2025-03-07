@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayesha19765/2025/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ayesha19765/2025/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayesha19765/2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ayesha19765/2025/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayesha19765/2025/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ayesha19765/2025/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ayesha19765/2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ayesha19765/2025/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayesha19765/2025/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ayesha19765/2025/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ayesha19765/2025/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayesha19765/2025/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 ## Geometry
 |  |
 | ------- |

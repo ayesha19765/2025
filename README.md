@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ayesha19765/2025/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ayesha19765/2025/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ayesha19765/2025/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ayesha19765/2025/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

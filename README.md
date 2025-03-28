@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ayesha19765/2025/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -126,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayesha19765/2025/tree/master/0036-valid-sudoku) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->

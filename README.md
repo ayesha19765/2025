@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayesha19765/2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayesha19765/2025/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayesha19765/2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayesha19765/2025/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayesha19765/2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayesha19765/2025/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Breadth-First Search
 |  |

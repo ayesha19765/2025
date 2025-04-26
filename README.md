@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayesha19765/2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ayesha19765/2025/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -253,17 +254,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayesha19765/2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ayesha19765/2025/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayesha19765/2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ayesha19765/2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Linked List
 |  |
 | ------- |

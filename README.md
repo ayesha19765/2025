@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayesha19765/2025/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ayesha19765/2025/tree/master/0260-single-number-iii) |
+| [0336-palindrome-pairs](https://github.com/ayesha19765/2025/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ayesha19765/2025/tree/master/0416-partition-equal-subset-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayesha19765/2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayesha19765/2025/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/ayesha19765/2025/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayesha19765/2025/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/ayesha19765/2025/tree/master/0336-palindrome-pairs) |
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/ayesha19765/2025/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/ayesha19765/2025/tree/master/0768-partition-labels) |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/ayesha19765/2025/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->

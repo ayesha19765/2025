@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayesha19765/2025/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ayesha19765/2025/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayesha19765/2025/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayesha19765/2025/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ayesha19765/2025/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ayesha19765/2025/tree/master/0868-push-dominoes) |
+| [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayesha19765/2025/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayesha19765/2025/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/ayesha19765/2025/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayesha19765/2025/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ayesha19765/2025/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ayesha19765/2025/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ayesha19765/2025/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayesha19765/2025/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayesha19765/2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayesha19765/2025/tree/master/0055-jump-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayesha19765/2025/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ayesha19765/2025/tree/master/0048-rotate-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayesha19765/2025/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ayesha19765/2025/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |

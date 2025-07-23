@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayesha19765/2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ayesha19765/2025/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/ayesha19765/2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayesha19765/2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayesha19765/2025/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayesha19765/2025/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ayesha19765/2025/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ayesha19765/2025/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |

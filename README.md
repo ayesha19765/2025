@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayesha19765/2025/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayesha19765/2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayesha19765/2025/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/ayesha19765/2025/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ayesha19765/2025/tree/master/0134-gas-station) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayesha19765/2025/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ayesha19765/2025/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayesha19765/2025/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/ayesha19765/2025/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayesha19765/2025/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ayesha19765/2025/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ayesha19765/2025/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ayesha19765/2025/tree/master/0338-counting-bits) |

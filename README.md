@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayesha19765/2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayesha19765/2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ayesha19765/2025/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/ayesha19765/2025/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ayesha19765/2025/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ayesha19765/2025/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayesha19765/2025/tree/master/0053-maximum-subarray) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayesha19765/2025/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/ayesha19765/2025/tree/master/0040-combination-sum-ii) |
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |

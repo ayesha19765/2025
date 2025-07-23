@@ -10,28 +10,33 @@
  */
 class Solution {
 public:
-    int findLen(ListNode* head){
-        int cnt = 1;
-        ListNode*curr = head;
-        while(curr->next){
-            cnt++;
-            curr = curr->next;
-        }
-        curr->next = head;
-        return cnt;
-    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL)
-            return head;
-        int len = findLen(head);
-        k = k % len;
-        ListNode* curr = head;
-        for(int i = 0; i < len - k - 1; i++){
-            curr = curr->next;
+        if (!head || !head->next || k == 0) return head;
+
+        // Step 1: Find length and tail
+        int len = 1;
+        ListNode* tail = head;
+        while (tail->next) {
+            tail = tail->next;
+            len++;
         }
 
-        ListNode *newHead = curr->next;
-        curr->next = NULL;
+        // Step 2: Make it circular
+        tail->next = head;
+        k = k % len;
+
+        // Step 3: Find new tail at len - k
+        int stepsToNewHead = len - k;
+        ListNode* newTail = head;
+        for (int i = 1; i < stepsToNewHead; i++) {
+            newTail = newTail->next;
+        }
+
+        // Step 4: Break the circle
+        ListNode* newHead = newTail->next;
+        newTail->next = nullptr;
+
         return newHead;
     }
+
 };

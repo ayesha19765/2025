@@ -1,37 +1,42 @@
 class MinStack {
-public:
     stack<long long> st;
-    int mini;
-    MinStack() {
-        mini = -1;
-    }
-    
+    long long minElement;
+
+public:
     void push(int val) {
-        if(st.empty()){
-            st.push(0);
-            mini = val;
-        }else{
-            st.push(long(val) - mini);
-            mini = min(mini, val);
+        if (st.empty()) {
+            st.push(val);
+            minElement = val;
+        } else {
+            if (val >= minElement) {
+                st.push(val);
+            } else {
+                st.push(2LL * val - minElement); // encode
+                minElement = val;
+            }
         }
     }
-    
+
     void pop() {
-        if(st.top() < 0) // minimum element till now
-            mini = mini - st.top();
-        st.pop();
+        if (st.top() >= minElement) {
+            st.pop();
+        } else {
+            // it's an encoded value, restore previous min
+            minElement = 2 * minElement - st.top();
+            st.pop();
+        }
     }
-    
+
     int top() {
-        if(st.top() < 0) 
-            return mini;
-        return mini + st.top();
+        if (st.top() >= minElement) return st.top();
+        else return minElement; // actual top value is the current min
     }
-    
+
     int getMin() {
-        return mini;
+        return minElement;
     }
 };
+
 
 /**
  * Your MinStack object will be instantiated and called as such:

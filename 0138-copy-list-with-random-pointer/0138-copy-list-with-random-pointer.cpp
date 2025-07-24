@@ -18,35 +18,23 @@ public:
     Node* copyRandomList(Node* head) {
         if (!head) return NULL;
 
-        // 1. Create cloned nodes interleaved with original nodes
+        // Step 1: Create mapping from original to copied nodes
+        unordered_map<Node*, Node*> mp;
+
         Node* curr = head;
         while (curr) {
-            Node* copy = new Node(curr->val);
-            copy->next = curr->next;
-            curr->next = copy;
-            curr = copy->next;
-        }
-
-        // 2. Set random pointers for the copied nodes
-        curr = head;
-        while (curr) {
-            if (curr->random)
-                curr->next->random = curr->random->next;
-            curr = curr->next->next;
-        }
-
-        // 3. Separate the original and copied lists
-        curr = head;
-        Node* newHead = head->next;
-        Node* copy = newHead;
-        while (curr) {
-            curr->next = curr->next->next;
-            if (copy->next)
-                copy->next = copy->next->next;
+            mp[curr] = new Node(curr->val);
             curr = curr->next;
-            copy = copy->next;
         }
 
-        return newHead;
+        // Step 2: Set next and random pointers for copied nodes
+        curr = head;
+        while (curr) {
+            mp[curr]->next = mp[curr->next];
+            mp[curr]->random = mp[curr->random];
+            curr = curr->next;
+        }
+
+        return mp[head];
     }
 };

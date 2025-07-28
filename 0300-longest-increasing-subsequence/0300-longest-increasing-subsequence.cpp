@@ -1,20 +1,15 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> dp(n, 1);
-        int maxLen = 1;
+   int lengthOfLIS(vector<int>& nums) {
+        vector<int> lis;
 
-        for (int i = 1; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (nums[i] > nums[j]) {
-                    dp[i] = max(dp[i], 1 + dp[j]);
-                }
-            }
-            maxLen = max(maxLen, dp[i]);
+        for (int num : nums) {
+            auto it = lower_bound(lis.begin(), lis.end(), num);
+            if (it == lis.end()) lis.push_back(num);
+            else *it = num;
         }
 
-        return maxLen;
+        return lis.size();
     }
 
 };

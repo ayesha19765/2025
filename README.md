@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayesha19765/2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/ayesha19765/2025/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/ayesha19765/2025/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
+| [0820-find-eventual-safe-states](https://github.com/ayesha19765/2025/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayesha19765/2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Segment Tree
 |  |
@@ -515,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayesha19765/2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayesha19765/2025/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

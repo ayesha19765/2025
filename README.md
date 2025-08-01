@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/ayesha19765/2025/tree/master/1095-two-city-scheduling) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayesha19765/2025/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ayesha19765/2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayesha19765/2025/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ayesha19765/2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayesha19765/2025/tree/master/0073-set-matrix-zeroes) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Two Pointers
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayesha19765/2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Combinatorics
 |  |
@@ -475,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |

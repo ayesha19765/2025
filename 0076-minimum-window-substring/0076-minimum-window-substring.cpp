@@ -1,39 +1,41 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int charNotFound = t.size();
+        unordered_map<char, int> req;
 
-        unordered_map<char, int> freq;
-
-        for(char ch: t)
-            freq[ch] ++;
-
-        int start = 0, end = 0, minStart = 0, ans = INT_MAX;
-
-        while(end < s.size()){
-            if(freq[s[end]] > 0){
-                charNotFound --;
-            }
-            freq[s[end]] --;
-
-            while(charNotFound == 0){
-                if((end - start + 1) < ans){
-                    minStart = start;
-                    ans = end - start + 1;
-                }
-
-                freq[s[start]] ++;
-
-                if(freq[s[start]] > 0){
-                    charNotFound ++;
-                }
-                
-                start ++;
-            }
-
-            end ++;
+        for(char c: t){
+            req[c] ++;
         }
 
-        return s.substr(minStart, ans == INT_MAX ? 0: ans);
+        int needed = t.size(), start = 0, minLen = INT_MAX, minStart = 0;
+
+        for(int end = 0; end < s.size(); end ++){
+            
+            if(req[s[end]] > 0){
+                needed --;
+            }
+
+            req[s[end]] --;
+
+            while(needed == 0){
+                if(minLen > end - start + 1)
+                {
+                    minStart = start;
+                    minLen = end - start + 1;
+                }
+
+                req[s[start]] ++;
+
+                if(req[s[start]] > 0)
+                    needed ++;
+
+                start ++;
+            }
+        }
+
+        if(minLen == INT_MAX)
+            return "";
+        
+        return s.substr(minStart, minLen);
     }
 };

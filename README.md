@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ayesha19765/2025/tree/master/0043-multiply-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -531,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ayesha19765/2025/tree/master/0820-find-eventual-safe-states) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

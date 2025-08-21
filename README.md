@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ayesha19765/2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayesha19765/2025/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayesha19765/2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ayesha19765/2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Stack
 |  |
@@ -327,12 +330,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ayesha19765/2025/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayesha19765/2025/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayesha19765/2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 ## Design
 |  |
 | ------- |

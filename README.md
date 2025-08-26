@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayesha19765/2025/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayesha19765/2025/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 ## Geometry
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ayesha19765/2025/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ayesha19765/2025/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ayesha19765/2025/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |

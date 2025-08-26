@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ayesha19765/2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ayesha19765/2025/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ayesha19765/2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/ayesha19765/2025/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ayesha19765/2025/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayesha19765/2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayesha19765/2025/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
+| [2529-range-product-queries-of-powers](https://github.com/ayesha19765/2025/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Matrix
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2529-range-product-queries-of-powers](https://github.com/ayesha19765/2025/tree/master/2529-range-product-queries-of-powers) |
 ## Doubly-Linked List
 |  |
 | ------- |

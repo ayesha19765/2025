@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ayesha19765/2025/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayesha19765/2025/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |

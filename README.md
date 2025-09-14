@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
+| [1006-vowel-spellchecker](https://github.com/ayesha19765/2025/tree/master/1006-vowel-spellchecker) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/ayesha19765/2025/tree/master/1095-two-city-scheduling) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ayesha19765/2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
+| [1006-vowel-spellchecker](https://github.com/ayesha19765/2025/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/ayesha19765/2025/tree/master/1308-smallest-string-with-swaps) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/ayesha19765/2025/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/ayesha19765/2025/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1308-smallest-string-with-swaps](https://github.com/ayesha19765/2025/tree/master/1308-smallest-string-with-swaps) |
 | [1508-longest-happy-prefix](https://github.com/ayesha19765/2025/tree/master/1508-longest-happy-prefix) |

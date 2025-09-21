@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/ayesha19765/2025/tree/master/1308-smallest-string-with-swaps) |
 | [1500-count-largest-group](https://github.com/ayesha19765/2025/tree/master/1500-count-largest-group) |
+| [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ayesha19765/2025/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayesha19765/2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
+| [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ayesha19765/2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayesha19765/2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayesha19765/2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
+| [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ayesha19765/2025/tree/master/3827-implement-router) |
 ## Math
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ayesha19765/2025/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ayesha19765/2025/tree/master/3827-implement-router) |

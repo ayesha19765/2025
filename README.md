@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayesha19765/2025/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ayesha19765/2025/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayesha19765/2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/ayesha19765/2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayesha19765/2025/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayesha19765/2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ayesha19765/2025/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayesha19765/2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayesha19765/2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ayesha19765/2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |

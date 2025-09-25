@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ayesha19765/2025/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ayesha19765/2025/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/ayesha19765/2025/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ayesha19765/2025/tree/master/0134-gas-station) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ayesha19765/2025/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayesha19765/2025/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ayesha19765/2025/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/ayesha19765/2025/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayesha19765/2025/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ayesha19765/2025/tree/master/0300-longest-increasing-subsequence) |

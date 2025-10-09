@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ayesha19765/2025/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ayesha19765/2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ayesha19765/2025/tree/master/3827-implement-router) |
 ## Hash Table
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/ayesha19765/2025/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ayesha19765/2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayesha19765/2025/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ayesha19765/2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ayesha19765/2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
 | ------- |

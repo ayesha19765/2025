@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayesha19765/2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayesha19765/2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ayesha19765/2025/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayesha19765/2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ayesha19765/2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ayesha19765/2025/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayesha19765/2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |

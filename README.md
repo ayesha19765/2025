@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ayesha19765/2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayesha19765/2025/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ayesha19765/2025/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
+| [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/ayesha19765/2025/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ayesha19765/2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/ayesha19765/2025/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayesha19765/2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ayesha19765/2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ayesha19765/2025/tree/master/0368-largest-divisible-subset) |
+| [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |

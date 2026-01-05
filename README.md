@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ayesha19765/2025/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/ayesha19765/2025/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayesha19765/2025/tree/master/2054-two-best-non-overlapping-events) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/ayesha19765/2025/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/ayesha19765/2025/tree/master/1095-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayesha19765/2025/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/ayesha19765/2025/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ayesha19765/2025/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ayesha19765/2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayesha19765/2025/tree/master/3074-apple-redistribution-into-boxes) |

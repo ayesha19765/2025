@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ayesha19765/2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ayesha19765/2025/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayesha19765/2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayesha19765/2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ayesha19765/2025/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayesha19765/2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayesha19765/2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayesha19765/2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |

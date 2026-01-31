@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ayesha19765/2025/tree/master/0498-diagonal-traverse) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayesha19765/2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayesha19765/2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ayesha19765/2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayesha19765/2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayesha19765/2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ayesha19765/2025/tree/master/0300-longest-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayesha19765/2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |

@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ayesha19765/2025/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/ayesha19765/2025/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/ayesha19765/2025/tree/master/0800-letter-case-permutation) |
+| [0868-binary-gap](https://github.com/ayesha19765/2025/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayesha19765/2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |

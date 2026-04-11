@@ -1,15 +1,17 @@
 class Solution {
 public:
-    // Function to determine if any value appears at least twice in the array
     bool containsDuplicate(vector<int>& nums) {
-        // Initializing an unordered set with the elements from the nums vector.
-        unordered_set<int> numSet(nums.begin(), nums.end());
+         unordered_map<int, bool> mp;
 
-        // If the size of the set is smaller than the size of the original vector,
-        // it means there were duplicates which were removed in the set creation process.
-        // Hence, return true if duplicates were found, false otherwise.
-        return numSet.size() < nums.size();
+        for(int i = 0; i < nums.size(); i++){
+
+            if(mp.find(nums[i]) != mp.end()){
+                return true;
+            }
+
+            mp[nums[i]] = true;
+        }
+
+        return false;
     }
 };
-// Time - O(n)
-// Space - O(n)

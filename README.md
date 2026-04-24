@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/ayesha19765/2025/tree/master/2107-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ayesha19765/2025/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2833-furthest-point-from-origin](https://github.com/ayesha19765/2025/tree/master/2833-furthest-point-from-origin) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ayesha19765/2025/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayesha19765/2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/ayesha19765/2025/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ayesha19765/2025/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/ayesha19765/2025/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |

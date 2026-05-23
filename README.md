@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ayesha19765/2025/tree/master/1524-string-matching-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ayesha19765/2025/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayesha19765/2025/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/ayesha19765/2025/tree/master/1753-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayesha19765/2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1895-largest-magic-square](https://github.com/ayesha19765/2025/tree/master/1895-largest-magic-square) |

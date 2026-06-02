@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayesha19765/2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayesha19765/2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayesha19765/2025/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ayesha19765/2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayesha19765/2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayesha19765/2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/ayesha19765/2025/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ayesha19765/2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayesha19765/2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ayesha19765/2025/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/ayesha19765/2025/tree/master/3827-implement-router) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ayesha19765/2025/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayesha19765/2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ayesha19765/2025/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |

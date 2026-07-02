@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ayesha19765/2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayesha19765/2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayesha19765/2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ayesha19765/2025/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayesha19765/2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayesha19765/2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Bucket Sort
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayesha19765/2025/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayesha19765/2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ayesha19765/2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/ayesha19765/2025/tree/master/2092-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ayesha19765/2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -861,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/ayesha19765/2025/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayesha19765/2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -893,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

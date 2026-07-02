@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayesha19765/2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/ayesha19765/2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayesha19765/2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/ayesha19765/2025/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayesha19765/2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayesha19765/2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/ayesha19765/2025/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
@@ -897,9 +899,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/ayesha19765/2025/tree/master/1095-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayesha19765/2025/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/ayesha19765/2025/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayesha19765/2025/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1308-smallest-string-with-swaps](https://github.com/ayesha19765/2025/tree/master/1308-smallest-string-with-swaps) |
 | [1340-jump-game-v](https://github.com/ayesha19765/2025/tree/master/1340-jump-game-v) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/ayesha19765/2025/tree/master/1095-two-city-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayesha19765/2025/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/ayesha19765/2025/tree/master/1288-remove-covered-intervals) |
 | [1308-smallest-string-with-swaps](https://github.com/ayesha19765/2025/tree/master/1308-smallest-string-with-swaps) |
 | [1340-jump-game-v](https://github.com/ayesha19765/2025/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ayesha19765/2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |

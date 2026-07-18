@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayesha19765/2025/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1895-largest-magic-square](https://github.com/ayesha19765/2025/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ayesha19765/2025/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayesha19765/2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/ayesha19765/2025/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayesha19765/2025/tree/master/2054-two-best-non-overlapping-events) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/ayesha19765/2025/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/ayesha19765/2025/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayesha19765/2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayesha19765/2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ayesha19765/2025/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ayesha19765/2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayesha19765/2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayesha19765/2025/tree/master/3658-gcd-of-odd-and-even-sums) |

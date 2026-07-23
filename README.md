@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/ayesha19765/2025/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayesha19765/2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayesha19765/2025/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayesha19765/2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayesha19765/2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayesha19765/2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ayesha19765/2025/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayesha19765/2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayesha19765/2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayesha19765/2025/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayesha19765/2025/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayesha19765/2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2529-range-product-queries-of-powers](https://github.com/ayesha19765/2025/tree/master/2529-range-product-queries-of-powers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ayesha19765/2025/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Doubly-Linked List
 |  |
 | ------- |

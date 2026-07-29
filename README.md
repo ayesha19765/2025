@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayesha19765/2025/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayesha19765/2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/ayesha19765/2025/tree/master/2833-furthest-point-from-origin) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ayesha19765/2025/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayesha19765/2025/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayesha19765/2025/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayesha19765/2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayesha19765/2025/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ayesha19765/2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayesha19765/2025/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayesha19765/2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ayesha19765/2025/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayesha19765/2025/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayesha19765/2025/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ayesha19765/2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayesha19765/2025/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayesha19765/2025/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ayesha19765/2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayesha19765/2025/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayesha19765/2025/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ayesha19765/2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |

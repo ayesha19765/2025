@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/ayesha19765/2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ayesha19765/2025/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ayesha19765/2025/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ayesha19765/2025/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayesha19765/2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ayesha19765/2025/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/ayesha19765/2025/tree/master/1500-count-largest-group) |
@@ -953,4 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayesha19765/2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

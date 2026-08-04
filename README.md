@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayesha19765/2025/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/ayesha19765/2025/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ayesha19765/2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ayesha19765/2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayesha19765/2025/tree/master/3790-fruits-into-baskets-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayesha19765/2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ayesha19765/2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ayesha19765/2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/ayesha19765/2025/tree/master/3731-find-missing-elements) |
 | [3797-design-spreadsheet](https://github.com/ayesha19765/2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ayesha19765/2025/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ayesha19765/2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ayesha19765/2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayesha19765/2025/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ayesha19765/2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/ayesha19765/2025/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayesha19765/2025/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |

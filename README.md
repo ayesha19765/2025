@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayesha19765/2025/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayesha19765/2025/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/ayesha19765/2025/tree/master/0794-swim-in-rising-water) |
+| [0887-super-egg-drop](https://github.com/ayesha19765/2025/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/ayesha19765/2025/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/ayesha19765/2025/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ayesha19765/2025/tree/master/0868-push-dominoes) |
 | [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/ayesha19765/2025/tree/master/0887-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ayesha19765/2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayesha19765/2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/ayesha19765/2025/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/ayesha19765/2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/ayesha19765/2025/tree/master/1500-count-largest-group) |

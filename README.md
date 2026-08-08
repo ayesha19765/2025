@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ayesha19765/2025/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/ayesha19765/2025/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayesha19765/2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ayesha19765/2025/tree/master/0152-maximum-product-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ayesha19765/2025/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayesha19765/2025/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayesha19765/2025/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayesha19765/2025/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ayesha19765/2025/tree/master/0146-lru-cache) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayesha19765/2025/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayesha19765/2025/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ayesha19765/2025/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayesha19765/2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/ayesha19765/2025/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ayesha19765/2025/tree/master/0242-valid-anagram) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayesha19765/2025/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ayesha19765/2025/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayesha19765/2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ayesha19765/2025/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ayesha19765/2025/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayesha19765/2025/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -892,12 +896,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayesha19765/2025/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayesha19765/2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ayesha19765/2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayesha19765/2025/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/ayesha19765/2025/tree/master/0336-palindrome-pairs) |
 ## Graph
 |  |
@@ -972,4 +978,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayesha19765/2025/tree/master/1143-longest-common-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

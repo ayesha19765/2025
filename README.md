@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/ayesha19765/2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayesha19765/2025/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/ayesha19765/2025/tree/master/1006-vowel-spellchecker) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/ayesha19765/2025/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/ayesha19765/2025/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayesha19765/2025/tree/master/1046-max-consecutive-ones-iii) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayesha19765/2025/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ayesha19765/2025/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ayesha19765/2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ayesha19765/2025/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ayesha19765/2025/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/ayesha19765/2025/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ayesha19765/2025/tree/master/1628-count-submatrices-with-all-ones) |
 ## Design
 |  |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayesha19765/2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayesha19765/2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayesha19765/2025/tree/master/2236-root-equals-sum-of-children) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayesha19765/2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayesha19765/2025/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -902,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ayesha19765/2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayesha19765/2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayesha19765/2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayesha19765/2025/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayesha19765/2025/tree/master/2236-root-equals-sum-of-children) |

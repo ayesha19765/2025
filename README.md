@@ -851,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayesha19765/2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ayesha19765/2025/tree/master/2236-root-equals-sum-of-children) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/ayesha19765/2025/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayesha19765/2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayesha19765/2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayesha19765/2025/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ayesha19765/2025/tree/master/2236-root-equals-sum-of-children) |
 ## Memoization
 |  |
 | ------- |

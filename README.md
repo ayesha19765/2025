@@ -1006,4 +1006,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayesha19765/2025/tree/master/0139-word-break) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayesha19765/2025/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -10,49 +10,40 @@
  */
 class Solution {
 public:
-    ListNode* findMid(ListNode* head){
-        ListNode* slow = head, *fast = head;
-
-        while(fast && fast->next){
-            slow = slow->next;
-            fast = fast->next->next;
+    ListNode* reverseLL(ListNode* node){
+        ListNode* prev = NULL, *curr = node;
+        while(curr){
+            ListNode* nxt = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nxt;
         }
 
-        return slow;
-    }
-    ListNode* reverse(ListNode* head){
-        ListNode* prev = NULL, *temp = head;
-
-        while(temp){
-            ListNode* next = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = next;
-        }
         return prev;
     }
+    bool isPalindrome(ListNode* head) {
+        if(!head)   return true;
 
-    bool compare(ListNode* head1, ListNode* head2){
-        while(head1 && head2){
-            if(head1->val != head2->val)
-                return false;
+        ListNode* fast = head, *slow = head;
 
-            head1 = head1->next;
-            head2 = head2->next;
+        while(fast && fast->next){
+            fast = fast->next->next;
+            slow = slow->next;
         }
+        // cout << slow->val << endl;
+
+        fast = reverseLL(slow);
+        slow = head;
+
+        while(slow && fast){
+            if(slow->val != fast->val){
+                return false;
+            }
+
+            slow = slow->next;
+            fast = fast->next;
+        }
+
         return true;
     }
-    bool isPalindrome(ListNode* head) {
-        if(!head || !head->next)
-            return true;
-
-        ListNode*mid = findMid(head);
-        mid = reverse(mid);
-        return compare(mid, head);
-    }
 };
-
-// O(n) -> time
-// O(1) -> space
-
-// O(n) -> time

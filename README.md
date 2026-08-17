@@ -991,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayesha19765/2025/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ayesha19765/2025/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayesha19765/2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory

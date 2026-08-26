@@ -1,30 +1,41 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string str, int k) {
-        int n = str.length();
+        int n = str.size();
+        int left = 0;
+        int ones = 0;
         int mini = INT_MAX;
         string ans = "";
-        for(int i = 0; i < n; i ++){
-            
-            int cnt = (str[i] == '1'), j = i;
 
-            while(cnt < k){
-                j ++;
-                if(j == n)
-                    break;
-                cnt += (str[j] == '1');
+        for (int right = 0; right < n; right++) {
+
+            if (str[right] == '1')
+                ones++;
+
+            while (ones > k) {
+                if (str[left] == '1')
+                    ones--;
+                left++;
             }
 
-            if(cnt == k){
-                int len = j - i + 1;
-                if(len < mini || (len == mini && str.substr(i, len) < ans)){
-                    mini = j - i + 1;
-                    ans = str.substr(i, mini);
+            if (ones == k) {
+
+                // Remove leading zeroes because they make
+                // the substring unnecessarily long
+                while (left <= right && str[left] == '0')
+                    left++;
+
+                int len = right - left + 1;
+
+                if (len < mini ||
+                    (len == mini && str.substr(left, len) < ans)) {
+
+                    mini = len;
+                    ans = str.substr(left, len);
                 }
             }
         }
 
-        cout << mini << endl;
         return ans;
     }
 };

@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ayesha19765/2025/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayesha19765/2025/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ayesha19765/2025/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/ayesha19765/2025/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/ayesha19765/2025/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ayesha19765/2025/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/ayesha19765/2025/tree/master/0877-stone-game) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ayesha19765/2025/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/ayesha19765/2025/tree/master/0836-rectangle-overlap) |
 ## Bit Manipulation
 |  |
 | ------- |
